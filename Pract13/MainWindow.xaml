@@ -80,8 +80,6 @@
 
         <StatusBar Background="#FF937CD6" Grid.Row="6">
             <TextBlock Text="Вариант №5"/>
-            <Separator/>
-            <TextBlock Text="Не важно сколько раз ты был на комиссии, важно сколько не был!" ToolTip="Статус"/>
         </StatusBar>
     </Grid>
 </Window>
